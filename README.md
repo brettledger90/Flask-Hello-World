@@ -1,5 +1,8 @@
-How to use:  
+investigate how the Jinja2 Templating Engine works in Flask.  We'll explore template inheritance as well.
 
-1. Clone repo
-2. run command "$ flask run"
-3. go to server
+Create new mock users 
+use render_template() to render the specified content
+create conditionals and loops to help direct
+implement template inheritance
+
+
